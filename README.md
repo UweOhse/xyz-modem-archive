@@ -25,7 +25,7 @@ Those i did find were rarely really clean. Some i downloaded via the web,
 one source file at a time, some were obviously repackaged, and so on.
 
 ***note***: do not use this. The code never was secure. Believe me. 
-Especially do not, ever, run rz, rx, rc when you do control the sender.
+Especially do not, ever, run rz, rb, rx, rc when you do not control the sender.
 
 So, without further ado:
 
