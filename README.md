@@ -82,3 +82,5 @@ Source: [ftp://archives.thebbs.org/file_transfer_protocols/rzsz.zip](archives.th
 
 ## rzsz-1987-08-21 (sz 1.35, rz 1.26) (1987)
 [rzsz-1.26_35.zip](rzsz-1.26_35.zip) 
+
+Source: [http://cd.textfiles.com/gigabytesw/](some shareware archive)
