@@ -45,6 +45,12 @@ Source: http://web.archive.org/web/20060616002947/http://freeware.sgi.com/source
 
 [rzsz-3.48.tar.gz](rzsz-3.48.tar.gz)
 
+## rzsz-3.42 (1994)
+Source: https://ftp.gwdg.de/pub/linux/comms/serial_suite/
+
+[rzsz-3.42.tar.gz](rzsz-3.42.tar.gz) 
+[rzsz-3.42.sh](rzsz-3.42.sh) 
+
 ## rzsz-3.38 (1994)
 Source: some less than perfectly trustworthy "usenet"-archive i shall not mention. I included the shar-archive and the tar i repackaged it in.
 
