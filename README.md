@@ -57,6 +57,11 @@ Source: some less than perfectly trustworthy "usenet"-archive i shall not mentio
 [rzsz-3.38.tar.gz](rzsz-3.38.tar.gz) 
 [rzsz-3.38.sh](rzsz-3.38.sh) 
 
+## rzsz-3.36 (1994)
+Source: https://ftp.gwdg.de/pub/linux/comms/serial_suite/
+
+[rzsz-3.36.zip](rzsz-3.36.zip) 
+
 ## rzsz-2.03 (1988)
 I think this is the last public domain version. If that is true, then this
 is the version lrzsz was based on.
