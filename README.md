@@ -62,10 +62,16 @@ Source: https://ftp.gwdg.de/pub/linux/comms/serial_suite/
 
 [rzsz-3.36.zip](rzsz-3.36.zip) 
 
-## rzsz-3.25 (1995)
+## rzsz-3.25 (1993)
 Source: https://ftp.gwdg.de/pub/linux/comms/serial_suite/
 
 [rzsz-3.25.zip](rzsz-3.25.zip) 
+
+## rzsz-3.17 (1991)
+Source: https://groups.google.com/forum/message/raw?msg=comp.unix.aix/0IZD0Iz1L_c/X1qBjvdrid4J
+
+[rzsz-3.17.tar.gz](rzsz-3.25.tar.gz) 
+[rzsz-3.17.sh](rzsz-3.25.sh) 
 
 ## rzsz-2.03 (1988)
 I think this is the last public domain version. If that is true, then this
