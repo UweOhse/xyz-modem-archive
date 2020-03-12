@@ -35,7 +35,6 @@ Source: my backups
 
 [crzsz-1.13.zip](crzsz-1.13.zip) 
 
-
 ## rzsz-3.73 (2003)
 Source: my backups
 
@@ -45,6 +44,12 @@ Source: my backups
 Source: http://web.archive.org/web/20060616002947/http://freeware.sgi.com/source/rzsz/rzsz-3.48.tar.gz
 
 [rzsz-3.48.tar.gz](rzsz-3.48.tar.gz)
+
+## rzsz-3.38 (1994)
+Source: some less than perfectly trustworthy "usenet"-archive i shall not mention. I included the shar-archive and the tar i repackaged it in.
+
+[rzsz-3.38.tar.gz](rzsz-3.38.tar.gz) 
+[rzsz-3.38.sh](rzsz-3.38.sh) 
 
 ## rzsz-2.03 (1988)
 I think this is the last public domain version. If that is true, then this
