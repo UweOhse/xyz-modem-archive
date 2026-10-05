@@ -111,6 +111,14 @@ Source: [ftp://archives.thebbs.org/file_transfer_protocols/rzsz.zip](archives.th
 [rzsz-2.03.zip](rzsz-2.03.zip) 
 
 ## rzsz-1987-08-21 (sz 1.35, rz 1.26) (1987)
-[rzsz-1.26_35.zip](rzsz-1.26_35.zip) 
 
 Source: [http://cd.textfiles.com/gigabytesw/](some shareware archive)
+
+[rzsz-1.26_35.zip](rzsz-1.26_35.zip) 
+
+## rzsz-1986-05-18 (sz 1.03, rz 1.03) (1986)
+This is the oldest rzsz version i have been able to find.
+
+Source: [http://annex.retroarchive.org/cdrom/kirks_comm2//DOS/ZMODEM/ZMODEM.ZIP/](annex.retroarchive.org)
+
+[ZMODEM-1.03.ZIP](ZMODEM-1.03.ZIP) 
