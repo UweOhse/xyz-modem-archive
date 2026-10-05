@@ -18,6 +18,10 @@ Stephen Hurd, the new maintainer, released a new version, where he fixed them:
        https://github.com/RealDeuce/zmtx-zmrx
 
 
+If you are interested in the history of rzsz: Rob Swindell created a repository
+with one commit per (still retrievable) release from version 1.03 onward. See:
+       https://github.com/rswindell/rzsz
+
 
 **********************************************************************************
 
