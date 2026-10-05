@@ -15,7 +15,7 @@ The most secure rzsz implementation is the latest lrzsz release:
 
 zmtx-zmrx-1.02 also contains at least three security issues:
 Stephen Hurd, the new maintainer, released a new version, where he fixed them:
-       https://github.com/RealDeuce/zmtx-zmrx/tree/main
+       https://github.com/RealDeuce/zmtx-zmrx
 
 
 
@@ -82,6 +82,11 @@ Source: some less than perfectly trustworthy "usenet"-archive i shall not mentio
 Source: https://ftp.gwdg.de/pub/linux/comms/serial_suite/
 
 [rzsz-3.36.zip](rzsz-3.36.zip) 
+
+## rzsz-3.34 (1994)
+https://www.ibiblio.org/pub/Linux/apps/serialcomm/ft/rzsz-3.34.tar.gz
+
+[rzsz-3.34.zip](rzsz-3.34.zip) 
 
 ## rzsz-3.25 (1993)
 Source: https://ftp.gwdg.de/pub/linux/comms/serial_suite/
