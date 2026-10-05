@@ -2,6 +2,25 @@ This is an archive of the sources of implementations of the X-, Y- and ZMODEM
 protocols, created because i had a hard time finding them after i started to
 work on lrzsz again.
 
+Note: i strongly recommend to NOT use any of these packages.
+
+During the lrzsz development in the 90s i fixed a number of security problems
+stemming from the original public domain rzsz implementation, and i fixed even
+more for lrzsz-0.13. Most of the security issues are still present in the
+rzsz and crzsz sources listed below.
+The most secure rzsz implementation is the latest lrzsz release:
+       https://ohse.de/uwe/software/lrzsz.html (homepage, releases)
+       https://github.com/UweOhse/lrzsz (code)
+        
+
+zmtx-zmrx-1.02 also contains at least three security issues:
+Stephen Hurd, the new maintainer, released a new version, where he fixed them:
+       https://github.com/RealDeuce/zmtx-zmrx/tree/main
+
+
+
+**********************************************************************************
+
 # zmtx-zmrx (1994)
 a clean, fresh zmodem implementation without any of the stupid features
 of the protocol (well, "fresh" it was in 1994).
@@ -30,7 +49,9 @@ Especially do not, ever, run rz, rb, rx, rc when you do not control the sender.
 So, without further ado:
 
 ## crzsz-1.13 (2005)
-I have no idea why this was called crzsz, and why the version number went down.
+This implements a "server mode". I don't know its purpose, but i do know that
+crz.c doesn't even implement a restricted mode and will execute ALL remote
+commands.
 Source: my backups
 
 [crzsz-1.13.zip](crzsz-1.13.zip) 
